@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="popup.css">
+</head>
+
+<body class="youtube-better-timestamps">
+  <div class="container">
+    <div class="nav">
+      <h1>BETTER TIMESTAMPS</h1>
+    </div>
+    <div class="help-gif">
+      <p><b>How to use?</b> Just click on the timestamp ;)</p>
+      <img src="./youtube-time-remaining.gif">
+    </div>
+
+    <div class="defaultText">
+      <p>Default Shortcuts:</p>
+    </div>
+    <div class="chapterNavigation">
+      <p><b id="previousChapterShortCut">Previous Chapter</b>: Ctrl + Shift + 1</p>
+      <p><b id="nextChapterShortCut">Next Chapter</b>: Ctrl + S hift + 3</p>
+    </div>
+
+    <div class="support">
+      <p><b>Do you like the extension?</b></p>
+      <a href="https://ko-fi.com/siddhart" target="_blank" rel="noreferrer"><img src="./BuyMeACoffee_blue@2x.png"></a>
+    </div>
+
+    <div class="credits">
+      <p><b>Made by <a href="https://www.github.com/siddhart" target="_blank" rel="noreferrer">Siddhart</a></b></p>
+      <p class="bug"><b><a href="/" target="_blank" rel="noreferrer">Report Bug</a></b></p>
+    </div>
+  </div>
+</body>
+
+</html>
+
+<style>
+  @import url(https://fonts.googleapis.com/css?family=Poppins:400,500,80);
+
+  .youtube-better-timestamps *{
+    font-family: 'Poppins';
+    text-decoration: none;
+  }
+
+  .youtube-better-timestamps p{
+    font-size: 16px;
+  }
+
+  .youtube-better-timestamps {
+    overflow: hidden;
+    width: 350px;
+    height: 250px;
+  }
+
+  .youtube-better-timestamps .container .support{
+    margin-top: 25px;
+  }
+
+  .youtube-better-timestamps .container .chapterNavigation{
+    display: block;
+    margin-top: 25px;
+  }
+
+  .youtube-better-timestamps .container .chapterNavigation p{
+    width: 100%;
+    margin-top: -20px;
+  }
+  
+  .youtube-better-timestamps .container .credits{
+    display: flex;
+  }
+  .youtube-better-timestamps .container .credits p b a{
+    color: rgb(0, 217, 255);
+  }
+
+  .youtube-better-timestamps .container .credits .bug{
+    margin-left: auto;
+  }
+  
+  .youtube-better-timestamps .container .help-gif img {
+    border-radius: 5px;
+    margin-top: -10px;
+    height: 150px;
+    width: 100%;
+  }
+  .youtube-better-timestamps .container .support a img {
+    margin-top: -10px;
+    width: 200px;
+  }
+</style>
