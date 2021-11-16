@@ -1,6 +1,6 @@
 {
-    "name": "Youtube Time Remaining",
-    "description": "Click on the timestamp to see how much time there is remaining",
+    "name": "Youtube Better Timestamps",
+    "description": "Click on the timestamp to see how much time there is left.",
     "version": "0.0.1",
     "manifest_version": 3,
     "background": {
