@@ -13,6 +13,11 @@
     "action": {
         "default_popup": "popup.html"
     },
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
     "content_scripts": [
         {
             "js": [
