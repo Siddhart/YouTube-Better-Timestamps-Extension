@@ -1,4 +1,9 @@
 # YouTube Better Timestamps
+
+![GIF](https://github.com/Siddhart/YouTube-Better-Timestamps/blob/main/youtube-time-remaining.gif)
+
+Preview of the extension ^
+
 ## Description
 With this extension you can click on the YouTube timestamp to see how much time is left of the video. You can also use the shortcuts to skip to the next or previous chapter.
 
