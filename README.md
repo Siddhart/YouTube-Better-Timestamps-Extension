@@ -1,4 +1,4 @@
-# YouTube Better Timestamps
+# YouTube Better Timestamps Extension
 
 ![GIF](https://github.com/Siddhart/YouTube-Better-Timestamps/blob/main/youtube-time-remaining.gif)
 
